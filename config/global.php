@@ -5,7 +5,7 @@ return [
     'paginationFirstIncrease' => 10,
     'paginationSecondIncrease' => 15,
     'paginationThirdIncrease' => 20,
-    'defaultTitle'=>'Nada is trying new things!'
+    'defaultTitle' => 'Nada is trying new things',
 ]
 
 ?>
